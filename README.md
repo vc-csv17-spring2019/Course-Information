@@ -1,4 +1,4 @@
-# Syllabus - Fall 2018 CS V15 Data Structures and Algorithms
+# Syllabus - Spring 2019 CS V17 Discrete Structures
 
 [Wiki](https://github.com/vcc-csv15-fall2018/Course-Information/wiki)
 
@@ -16,16 +16,11 @@ This course builds on the foundation provided by the programming fundamentals/ob
 
 ### Lecture:
 
-TR 1:00 PM - 2:50 PM (SCI-226)
+MW 1:00 PM - 2:15 PM (SCI-226)
 
 ### Textbook: 
 
-Data Structure Essential, 	Roman Lysecky  and Frank Vahid. Available only at [ZyBooks](https://www.zybooks.com). Not available from the VCC Bookstore. The textbook is required.
-
-To get the book, follow these instructions:
-1. Sign in or create an account at [learn.zybooks.com](https://learn.zybooks.com)
-2. Enter zyBook code: VENTURACOLLEGECSV15KnightFall2018
-3. Subscribe
+Discrete Mathematics: An Open Introduction, 	Oscar Levin. Available online [here](http://discrete.openmathbooks.org/download.php). Not available from the VCC Bookstore. The textbook is required.
 
 ### Student Learning Outcomes:
 
@@ -43,16 +38,11 @@ Minimum Percentage
 
 | Grade|     | Percent |
 |-----:|:---:|--------:|
-| A+   |  ≥  |     97% |
-| A    |  ≥  |     91% |
-| A-   |  ≥  |     88% |
-| B+   |  ≥  |     85% |
-| B    |  ≥  |     81% |
-| B-   |  ≥  |     78% |
-| C+   |  ≥  |     75% |
-| C    |  ≥  |     69% |
-| D    |  ≥  |     59% |
-| F    |  <  |     59% |
+| A    |  ≥  |     88% |
+| B    |  ≥  |     78% |
+| C    |  ≥  |     68% |
+| D    |  ≥  |     58% |
+| F    |  <  |     58% |
 
 
 #### Grade Breakdown
