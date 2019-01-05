@@ -1,18 +1,16 @@
 # Syllabus - Spring 2019 CS V17 Discrete Structures
 
-[Wiki](https://github.com/vcc-csv15-fall2018/Course-Information/wiki)
-
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)  
-Phone: (805) 285-2070  
-Office: TBD  
-Office Hours: TBD
+Phone: (805) 289-6481 (maybe)  
+Office: #SCI-356  
+Office Hours: TR 10:00 AM - 11:50AM
 
 ### Description:  
 
-This course builds on the foundation provided by the programming fundamentals/object-oriented programming sequence to introduce the fundamental concepts of data structures and the algorithms that proceed from them. Topics include recursion, the underlying philosophy of object-oriented programming, fundamental data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), the basics of algorithmic analysis, and an introduction to the principles of language translation.
+This course introduces the student to discrete mathematics as it is used in computer science. Topics include formal logic, proofs, sets, combinatorics, probability, functions, graph theory, Boolean Algebra, and Modeling with programming.
 
 ### Lecture:
 
@@ -24,10 +22,7 @@ Discrete Mathematics: An Open Introduction, 	Oscar Levin. Available online [here
 
 ### Student Learning Outcomes:
 
-1. CSLO-1: Analyze problems and select the appropriate data structure.
-2. CSLO-2: Estimate running time given an algorithm.
-3. CSLO-3: Implement and use linear data structures including sets, stacks, queues, and lists.
-4. CSLO-4: Implement and use trees including binary trees, binary search trees, and heaps.
+Coming Soon!
 
 ### Grading:
 
@@ -60,7 +55,7 @@ Your grade is based on how you do on programming assignments, participation, and
 
 #### Notes:
 
-- I use 91% rather than 92% so I can give a higher grade to those students who are close. This means that if you are at 90.99% you are not close to an "A".
+- I use 88% rather than 90% so I can give a higher grade to those students who are close. This means that if you are at 87.99% you are not close to an "A".
 
 - This class is exam, quiz, and programming assignment oriented. You must successfully complete all of the exams, quizzes and programming assignments in order to get the maximum out of this class.
 
@@ -107,7 +102,7 @@ The following descriptions detail the different types of extra credit that will 
 
 3. _Make Allan Cooler_: On Slack there is a channel specifically named "Make Allan Cooler" participation in this channel with colloquilisms and contempory song suggestions will earn students extra credit points, determined at the end of the term.
 
-3. _SBCC CS Club Events_: Throughout the term the CS Club will be putting on talks from people in industry and academia. You can earn extra credit points for attending these events. Students must sign the attendance sheet at the talk to earn the extra credit points. I will post on the Moodle site which events qualify for extra credit.
+3. _VC CS Club Events_: Throughout the term the CS Club will be putting on talks from people in industry and academia. You can earn extra credit points for attending these events. Students must sign the attendance sheet at the talk to earn the extra credit points. I will post on the Canvas site which events qualify for extra credit.
 
 ### Accommodations
 
