@@ -42,7 +42,7 @@ Minimum Percentage
 
 #### Grade Breakdown
 
-Your grade is based on how you do on programming assignments, participation, and the mid-term & final examinations. Each of these items are weighted when calculating your final grade. The following table gives these weights:
+Your grade is based on how you do on homework assignments, quizzes, participation, and all examinations. Each of these items are weighted when calculating your final grade. The following table gives these weights:
 
 |Type                             |Weight|
 |:--------------------------------|-----:|
@@ -56,14 +56,14 @@ Your grade is based on how you do on programming assignments, participation, and
 
 - I use 88% rather than 90% so I can give a higher grade to those students who are close. This means that if you are at 87.99% you are not close to an "A".
 
-- This class is exam, quiz, and programming assignment oriented. You must successfully complete all of the exams, quizzes and programming assignments in order to get the maximum out of this class.
+- This class is exam, quiz, and homework assignment oriented. You must successfully complete all of the exams, quizzes and homework assignments in order to get the maximum out of this class.
 
-- Programming assignments are turned in when they are submitted using GitHub. No credit will be given for any other method of submission unless explicitly requested to do so.
+- Homework assignments will be turned-in using the procedure described below. No credit will be given for any other method of submission unless explicitly requested to do so.
 
 - Assignments with due dates on the Sunday following the last day of instruction cannot be turned in late.
 
-The midterm and the final exam will be given on the dates announced on the web pages.
-Quizzes have a an hour time limit and are for the express purpose of making sure that you are keeping up on your reading. Quizzes can be taken twice (with a half an hour between attempts) but are due on the time and date specified and cannot be completed late.
+All examinations will be given on the dates announced on the web pages.
+Quizzes have a 45 minute time limit and are for the express purpose of making sure that you are keeping up on your reading. Quizzes can be taken twice (with a half an hour between attempts) but are due on the time and date specified and cannot be completed late.
 
 #### Late Assignments:
 
