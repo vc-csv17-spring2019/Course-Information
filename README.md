@@ -47,10 +47,9 @@ Your grade is based on how you do on programming assignments, participation, and
 |Type                             |Weight|
 |:--------------------------------|-----:|
 | Participation                   |  10% |
-| Quizzes                         |  10% |
-| Programming Assignments & Labs  |  30% |
-| Mid-term Examination            |  20% |
-| Final Examination               |  30% |
+| Quizzes                         |  20% |
+| Homework Assignments            |  20% |
+| Examinations                    |  50% |
 |**Total**                        | **100%** | 
 
 #### Notes:
@@ -70,27 +69,21 @@ Quizzes have a an hour time limit and are for the express purpose of making sure
 
 To get the most out of the class all assignments should be turned in before the time shown for each individual assignment. Do not make assumptions about when items are due! However, some items are accepted late using the procedure detailed below.
 
-Programming Assignments  
+Homework Assignments  
 - Can be turned in late.
 
 Quizzes  
 - **Cannot** be completed late.
 
-Midterm  
+Examinations  
 - **Cannot** be turned in late, unless prior arrangements are made at least 1 week in advance.
 
-Final  
+Final Examination 
 - **Cannot** be turned in late, unless prior arrangements are made at least 2 weeks in advance.
 
-#### Procedure for late assignments
+#### Procedure for turning-in assignments
 
-Each assignment has a point value, for example, 6 points. Students may turn in assignments late and have deducted one point for each 24 hour period the assignment is turned in after the due date (all times for due dates are Pacific Time). For example, the 6 point assignment turned in one second (or any measurable fraction of time) after the due date and time will have one point deducted from it. As each 24 hour period expires, another point will be deducted. As soon as the point value is zero, the assignment can no longer be turned in. That means the 6 point assignment cannot be turned in after six 24 hour periods has passed. This concept is very important when applying extra credit. 
-
-For the purposes of deciding when an assignment is completed, I will take the time of the commit in GitHub, not when the tests are run on the Jenkins CI server.
-
-For those assignments that are turned in late but before the final cut off, you can apply extra credit points you earn through out the term to make up for these lost points. Again, see the section on Extra Credit for further details.
-
-Please read carefully the next section, regarding Extra Credit, for further details.
+Homework assignments will be due each Wednesday at the beginning of the lecture. I will mark them as turned-in and return them to you the following Monday. Hold on to these until the end of the semester. At the end of the semester I will ask for a subset of all the assignment problems given. For each marked paper that you turned in with the proper assignments you will receive full credit. For each unmarked paper turned in with the proper assignments you will receive half credit. For each assignmnet that is not turned in at the specified time you will receive no credit. 
 
 #### Extra Credit
 
