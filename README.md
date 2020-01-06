@@ -34,7 +34,7 @@ MW 10:00 AM - 11:15 AM (SCI-226)
 ### Examinations
 
 Two pre-final examinations will be held.  The first exam will be held in the usual class room, SCI-226, from 10:00AM to 11:15AM on Monday, 
-February 3, 2020. The second exam will be held in the usual class room, SCI-226, from 10:00AM to 11:15AM on Monday, March 23, 2020.
+February 10, 2020. The second exam will be held in the usual class room, SCI-226, from 10:00AM to 11:15AM on Monday, March 23, 2020.
 
 ### Final Exam
 
