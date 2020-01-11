@@ -74,7 +74,7 @@ Your grade is based on how you do on programming assignments, participation, and
 |Type                             |Weight|
 |:--------------------------------|-----:|
 | Participation                   |  10% |
-| Homework Assignments            |  40% |
+| Homework Assignments            |  35% |
 | Examinations                    |  25% |
 | Final Examination               |  30% |
 |**Total**                        | **100%** | 
